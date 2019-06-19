@@ -64,5 +64,3 @@ Standalone script executable outside of the server/client functionality with the
 
 ./select database_name table_name col_req,col_req,col_req
 
-
-README in Linux. Formatting is broken in Windows.
